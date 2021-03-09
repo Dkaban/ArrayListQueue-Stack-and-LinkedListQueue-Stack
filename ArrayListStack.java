@@ -2,9 +2,7 @@
 //  ArrayListStack.java
 //
 //  AUTHOR: DUSTIN KABAN
-//  ID: T00663749
 //  DATE: March 03, 2021
-//  COURSE: COMP 2231, ASSIGNMENT 3: QUESTION 2
 //
 //  This class implements a stack using java.util.ArrayList
 //*************************************************************************************
