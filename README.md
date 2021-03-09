@@ -11,6 +11,7 @@
 
 ## LinkedListQueue
 - Implements the QueueADT.
+- Enqueue, Dequeue, first() all functional.
 - The main driver is the LinkedListQueueDriver.
 
 ## LinkedListStack
