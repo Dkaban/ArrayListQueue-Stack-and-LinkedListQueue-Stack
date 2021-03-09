@@ -2,9 +2,7 @@
 //  ArrayListQueue.java
 //
 //  AUTHOR: DUSTIN KABAN
-//  ID: T00663749
 //  DATE: March 09, 2021
-//  COURSE: COMP 2231, ASSIGNMENT 3: QUESTION 4
 //
 //  This class implements the QueueADT class and a stack using java.util.ArrayList
 //*************************************************************************************
