@@ -2,9 +2,7 @@
 //  LinkedListQueueDriver.java
 //
 //  AUTHOR: DUSTIN KABAN
-//  ID: T00663749
 //  DATE: March 09, 2021
-//  COURSE: COMP 2231, ASSIGNMENT 3: QUESTION 3
 //
 //  This is the driver class of LinkedListQueue to demonstrate a linked list as a queue
 //*************************************************************************************
