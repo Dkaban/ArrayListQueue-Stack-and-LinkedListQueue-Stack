@@ -4,16 +4,16 @@
 - Enqueue, Dequeue, first() all functional.
 - The main driver is the ArrayListQueueDriver.
 
-##ArrayListStack
+## ArrayListStack
 - Implements the StackADT.
 - The main driver is the ArrayListStackDriver.
 - The arraylist now has functions like push,pop, seek.
 
-##LinkedListQueue
+## LinkedListQueue
 - Implements the QueueADT.
 - The main driver is the LinkedListQueueDriver.
 
-##LinkedListStack
+## LinkedListStack
 - Implements the StackADT.
 - Makes a linkedlist have functionality of a stack.
 - Push, pop, seek all work
