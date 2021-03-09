@@ -2,9 +2,7 @@
 //  ArrayListQueueDriver.java
 //
 //  AUTHOR: DUSTIN KABAN
-//  ID: T00663749
 //  DATE: March 09, 2021
-//  COURSE: COMP 2231, ASSIGNMENT 3: QUESTION 4
 //
 //  This class demonstrates how an ArrayList works when setup as a queue
 //  Displays to the user what is happening as the functions of an ArrayListQueue are tested
