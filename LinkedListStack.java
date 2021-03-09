@@ -2,9 +2,7 @@
 //  LinkedListStackDriver.java
 //
 //  AUTHOR: DUSTIN KABAN
-//  ID: T00663749
 //  DATE: March 01, 2021
-//  COURSE: COMP 2231, ASSIGNMENT 3: QUESTION 1
 //
 //  Implements the StackADT class and adds functionality for the LinkedList to function
 //  like a stack.
