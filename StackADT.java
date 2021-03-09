@@ -1,9 +1,3 @@
-/**
- * Defines the interface to a stack collection.
- *
- * @author Java Foundations
- * @version 4.0
- */
 public interface StackADT<T>
 {
     /**
